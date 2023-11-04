@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/talha1265/Asdc-Student-Management-App.git/static/css/main.82ca9b65.css",
+    "main.js": "/talha1265/Asdc-Student-Management-App.git/static/js/main.525b618a.js",
+    "static/js/787.47b7dab6.chunk.js": "/talha1265/Asdc-Student-Management-App.git/static/js/787.47b7dab6.chunk.js",
+    "static/media/web2.jpg": "/talha1265/Asdc-Student-Management-App.git/static/media/web2.84437258534c0cde5bc4.jpg",
+    "static/media/graphic.jpg": "/talha1265/Asdc-Student-Management-App.git/static/media/graphic.38ae5c4d583859f41d64.jpg",
+    "static/media/logo.png": "/talha1265/Asdc-Student-Management-App.git/static/media/logo.f56eb96e3794fa1fb213.png",
+    "static/media/hero.jpg": "/talha1265/Asdc-Student-Management-App.git/static/media/hero.7a14d88ccda976348397.jpg",
+    "static/media/tally.jpg": "/talha1265/Asdc-Student-Management-App.git/static/media/tally.ba0d3a94c46a558e0d87.jpg",
+    "static/media/digital.jpg": "/talha1265/Asdc-Student-Management-App.git/static/media/digital.a8d4c84b169bc3d19353.jpg",
+    "static/media/pdp.jpg": "/talha1265/Asdc-Student-Management-App.git/static/media/pdp.fd6db73274e16b0291b2.jpg",
+    "index.html": "/talha1265/Asdc-Student-Management-App.git/index.html",
+    "main.82ca9b65.css.map": "/talha1265/Asdc-Student-Management-App.git/static/css/main.82ca9b65.css.map",
+    "main.525b618a.js.map": "/talha1265/Asdc-Student-Management-App.git/static/js/main.525b618a.js.map",
+    "787.47b7dab6.chunk.js.map": "/talha1265/Asdc-Student-Management-App.git/static/js/787.47b7dab6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ca9b65.css",
+    "static/js/main.525b618a.js"
+  ]
+}
